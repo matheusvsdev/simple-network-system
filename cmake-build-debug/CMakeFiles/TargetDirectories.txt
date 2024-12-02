@@ -1,0 +1,5 @@
+/Users/matheusvaldevino/CLionProjects/Sistema-rede-simples-teste/cmake-build-debug/CMakeFiles/server.dir
+/Users/matheusvaldevino/CLionProjects/Sistema-rede-simples-teste/cmake-build-debug/CMakeFiles/client.dir
+/Users/matheusvaldevino/CLionProjects/Sistema-rede-simples-teste/cmake-build-debug/CMakeFiles/main.dir
+/Users/matheusvaldevino/CLionProjects/Sistema-rede-simples-teste/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/matheusvaldevino/CLionProjects/Sistema-rede-simples-teste/cmake-build-debug/CMakeFiles/rebuild_cache.dir
